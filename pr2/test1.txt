@@ -1,0 +1,5 @@
+Point(0, 0)
+Point(1.5, -2.5)
+Line(Point(0, 0), Point(10, 10))
+Circle(Point(5, 5), 3)
+Circle(Point(-1, -1), 0.5)

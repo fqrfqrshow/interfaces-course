@@ -1,0 +1,7 @@
+Point(3,5)
+Point( 3 , 5 )
+Point(  3.5  ,  5.5  )
+Line(Point(1,2),Point(3,4))
+Line( Point(1, 2) , Point(3, 4) )
+Circle(Point(5,6),7)
+Circle( Point( 5 , 6 ) , 7 )
